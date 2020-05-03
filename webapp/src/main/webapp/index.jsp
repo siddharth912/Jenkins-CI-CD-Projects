@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Boom Technologies !!! </h1>
-<h2> Deploying on Tomcat </h2>
-<h3> Have a Good Day </h3>
+<br><br>
+<font color="gray" size="5"> 
+  The date now is: <%= new java.util.Date() %>
+</font>
