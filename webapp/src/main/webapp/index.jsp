@@ -1,4 +1,4 @@
 <br><br>
-<font color="gray" size="5"> 
-  The date now is: <%= new java.util.Date() %>
+<font color="blue" size="10"> 
+  Hello sir Siddharth, it's: <%= new java.util.Date() %>
 </font>
